@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Yandex-Practicum/go1fl-4-sprint-final/internal/daysteps"
-	"github.com/Yandex-Practicum/go1fl-4-sprint-final/internal/spentcalories"
+	"github.com/RavanAbbasov/go-fitness-tracker/internal/daysteps"
+	"github.com/RavanAbbasov/go-fitness-tracker/internal/spentcalories"
 )
 
 func main() {
