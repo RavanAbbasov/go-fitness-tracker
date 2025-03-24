@@ -1,3 +1,3 @@
-module github.com/Yandex-Practicum/go1fl-4-sprint-final
+module github.com/RavanAbbasov/go-fitness-tracker
 
 go 1.23.5
